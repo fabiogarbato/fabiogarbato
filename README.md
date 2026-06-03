@@ -47,13 +47,6 @@ Desenvolvedor Full Stack com mais de 6 anos criando soluções que vão do front
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiogarbato&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogarbato&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="165"/>
-</p>
-
 ### 📫 Vamos conversar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-garbato-046316196/)
